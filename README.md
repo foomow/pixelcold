@@ -1,5 +1,5 @@
 # pixelcold
-A sandbox adventure game with a pixel art UI based on chinese culture.
+**A sandbox adventure game with a pixel art UI based on chinese culture.**
 
 It is now at the beginning stage.
 
@@ -19,6 +19,7 @@ We do this just for fun.
 
 :)
 
-wechat:ponxon
+>wechat: **ponxon**
 
-csdn blog:https://blog.csdn.net/foomow
+[csdn blog](https://blog.csdn.net/foomow)
+
